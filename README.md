@@ -1,4 +1,4 @@
-# Student Management System 1.0
+# Student Management System 1.0 (CVE-2024-55270)
 
 ## Overview
 
